@@ -1,0 +1,58 @@
+.cardwrapper{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    background-color: rgb(246, 241, 241) !important;
+    border: 1px solid black;
+    column-gap: 15px;
+    margin: auto;
+    justify-content: center;
+    /* text-align: center; */
+    width:80%;
+    cursor:pointer
+}
+.imagecontainer{
+   /* width: 00% !important;
+   height: 00% !important; */
+   background-color: brown;
+   /* border: 1px solid black; */
+}
+body{
+    background-color: rgba(142, 48, 48, 0.178) !important;
+}
+.homecard{
+    display: grid;
+    grid-template-rows: auto;
+    row-gap: 1%;
+}
+.content{
+    /* background-color: rgb(15, 125, 88); */
+    /* margin: auto auto auto auto; */
+}
+/* to product */
+.counter{
+    cursor:pointer
+}
+/* product user css */
+.producthome{
+    display: grid;
+    grid-template-columns:20% 80%;
+    column-gap:0px;
+    border: 2px solid black ;
+}
+.imagesection{
+    width:fit-content;
+    height:fit-content;
+    border: 2px solid black ;
+}
+/* .productimgae{
+    width:30%;
+    height:500%;
+    border: 2px solid black ;
+} */
+.divcontent{
+  margin :20px
+}
+.listimages{
+    height:20px;
+    width: 30px;
+}

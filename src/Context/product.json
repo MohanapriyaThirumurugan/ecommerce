@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 20000,
+        "stock": 0,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.thanxWr7pgMNxd9qTRanEAHaKI&pid=Api&P=0&h=220",
+        "images": [
+            "https://tse2.mm.bing.net/th?id=OIP.thanxWr7pgMNxd9qTRanEAHaKI&pid=Api&P=0&h=220",
+            "https://tse2.mm.bing.net/th?id=OIP.thanxWr7pgMNxd9qTRanEAHaKI&pid=Api&P=0&h=220",
+            "https://tse2.mm.bing.net/th?id=OIP.thanxWr7pgMNxd9qTRanEAHaKI&pid=Api&P=0&h=220"
+            ]
+    },
+    {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 10000,
+        "stock": 5,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://i5.walmartimages.com/asr/2a436aab-ac08-4bea-bf89-6411d2f29ce4_1.60a371ed5f47a9c68b5b5b737b90f70d.jpeg",
+        "images": [
+            "https://i5.walmartimages.com/asr/2a436aab-ac08-4bea-bf89-6411d2f29ce4_1.60a371ed5f47a9c68b5b5b737b90f70d.jpeg",
+            "https://i5.walmartimages.com/asr/2a436aab-ac08-4bea-bf89-6411d2f29ce4_1.60a371ed5f47a9c68b5b5b737b90f70d.jpeg",
+            "https://i5.walmartimages.com/asr/2a436aab-ac08-4bea-bf89-6411d2f29ce4_1.60a371ed5f47a9c68b5b5b737b90f70d.jpeg"
+            
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.YlXbStRq9wUSeJ8qYny4iAHaHa&pid=Api&P=0&h=220",
+        "images": [
+            "https://tse2.mm.bing.net/th?id=OIP.YlXbStRq9wUSeJ8qYny4iAHaHa&pid=Api&P=0&h=220",
+            "https://tse2.mm.bing.net/th?id=OIP.YlXbStRq9wUSeJ8qYny4iAHaHa&pid=Api&P=0&h=220",
+            "https://tse2.mm.bing.net/th?id=OIP.YlXbStRq9wUSeJ8qYny4iAHaHa&pid=Api&P=0&h=220"
+
+        ]
+    },
+    {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 6500,
+        "stock": 20,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "https://ecommerce.laraship.com/media/demo/app-iph-x/Apple-iPhoneX-SpaceGray-1-3x.jpg",
+        "images": [
+            "https://ecommerce.laraship.com/media/demo/app-iph-x/Apple-iPhoneX-SpaceGray-1-3x.jpg",
+            "https://ecommerce.laraship.com/media/demo/app-iph-x/Apple-iPhoneX-SpaceGray-1-3x.jpg",
+            "https://ecommerce.laraship.com/media/demo/app-iph-x/Apple-iPhoneX-SpaceGray-1-3x.jpg"
+          
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 8000,
+        "stock": 30,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "http://cdn.cultofmac.com/wp-content/uploads/2016/09/iPhone-7-Back-in-hand.jpg",
+        "images": [
+            "http://cdn.cultofmac.com/wp-content/uploads/2016/09/iPhone-7-Back-in-hand.jpg",
+            "http://cdn.cultofmac.com/wp-content/uploads/2016/09/iPhone-7-Back-in-hand.jpg",
+            "http://cdn.cultofmac.com/wp-content/uploads/2016/09/iPhone-7-Back-in-hand.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "iPhone 11",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 20000,
+        "stock": 100,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-pacific-blue-black.jpg",
+        "images": [
+            "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-pacific-blue-black.jpg",
+            "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-pacific-blue-black.jpg",
+            "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/10/iphone-12-pro-pacific-blue-black.jpg"
+
+        ]
+    },
+    {
+        "id": 7,
+        "title": "iPhone 12",
+        "description": "The new iPhone 12 is a built in a way to make your life better",
+        "price": 60000,
+        "stock": 100,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6341/6341343_sd.jpg",
+        "images": [
+            "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6341/6341343_sd.jpg",
+            "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6341/6341343_sd.jpg",
+            "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6341/6341343_sd.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "iPhone 13",
+        "description": "The new iPhone 13 is a built in a way to make your life better and more stylish",
+        "price": 58000,
+        "stock": 10,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://www.imore.com/sites/imore.com/files/styles/mediumplus/public/field/image/2016/05/elago-slim-case.jpg?itok=JSXte6Sq",
+        "images": [
+            "https://www.imore.com/sites/imore.com/files/styles/mediumplus/public/field/image/2016/05/elago-slim-case.jpg?itok=JSXte6Sq",
+            "https://www.imore.com/sites/imore.com/files/styles/mediumplus/public/field/image/2016/05/elago-slim-case.jpg?itok=JSXte6Sq",
+            "https://www.imore.com/sites/imore.com/files/styles/mediumplus/public/field/image/2016/05/elago-slim-case.jpg?itok=JSXte6Sq"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "iPhone 13",
+        "description": "The new iPhone 13 is a built in a way to make your life better and more stylish",
+        "price": 58000,
+        "stock": 10,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-30-image-17.jpg",
+        "images": [
+            "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-30-image-17.jpg",
+            "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-30-image-17.jpg",
+            "https://static.techspot.com/images2/news/bigimage/2021/06/2021-06-30-image-17.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "iPhone 14",
+        "description": "iPhone 14 new look and new dynamic island to make everythig accessible at ease",
+        "price": 68000,
+        "stock": 20,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+        "images": [
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Apple iPhone 15 (128 GB) - Black",
+        "description": "iPhone 15 the new and the greatest smart phone ever in the world",
+        "price": 80000,
+        "stock": 5,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+        "images": [
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg",
+            "https://ishopcentroamerica.com/images/catalogo/094141956E6F.jpg"
+        ]
+    }
+]
